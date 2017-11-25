@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloAndroidPADC</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_forgot_password"><i><u>Forgot Password?</u></i></string>
+    <string name="btn_new_seller_register"><i><u>New User? Register</u></i></string>
+    <string name="btn_already_have_account"><i><u>Already Have Account?</u></i></string>
+</resources>
